@@ -63,7 +63,7 @@ I have a great interest in data science and machine learning, with some experien
 Feel free to connect with me on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-bastani/)
----
+
 
 Thank you for visiting my profile. Happy coding! 😊
 <!--
