@@ -36,7 +36,7 @@ I have a great interest in data science and machine learning, with some experien
 ## 🛠️ Technical Skills
 
 ### Languages
-- Python
+- Python (Familiar with Functional and OOP Programming)
 - R
 - My SQL
 
