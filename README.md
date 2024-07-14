@@ -11,7 +11,7 @@
 [![CVXPY](https://img.shields.io/badge/CVXPY-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.cvxpy.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
-Welcome to my GitHub profile! I am a dedicated and Data Science enthusiast with a good background in Python, R, and various data analysis and machine learning libraries. My passion lies in turning data into actionable insights and developing robust models that solve real-world problems.
+Welcome to my GitHub profile! I am a dedicated Data Science enthusiast with a good background in Python, R, and various data analysis and machine learning libraries. My passion lies in turning data into actionable insights and developing robust models that solve real-world problems.
 
 ## 👨‍🔬 About Me
 
