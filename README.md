@@ -12,6 +12,7 @@
 [![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python-requests.org/en/master/)
 [![CVXPY](https://img.shields.io/badge/CVXPY-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.cvxpy.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 Welcome to my GitHub profile! I am a dedicated Data Science enthusiast with a good background in Python, R, and various data analysis and machine learning libraries. My passion lies in turning data into actionable insights and developing robust models that solve real-world problems.
 
