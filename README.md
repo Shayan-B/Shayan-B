@@ -58,6 +58,13 @@ I have a great interest in data science and machine learning, with some experien
 
 ---
 
+## Connect with Me
+
+Feel free to connect with me on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-bastani/)
+---
+
 Thank you for visiting my profile. Happy coding! 😊
 <!--
 **Shayan-B/Shayan-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
