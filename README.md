@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-# 💻 Hello This is Shayan, A Data Science enthusiast
+# 💻 Hello, This is Shayan, A Data Science Enthusiast
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -22,16 +22,16 @@ Welcome to my GitHub profile! I am a dedicated Data Science enthusiast with a go
 
 I have a great interest in data science and machine learning, with some experience in:
 
-- **Data Analysis**: Extracting, cleaning, and transforming data using Pandas, Polars, and other tools.
-- **Machine Learning**: Building predictive models with scikit-learn.
-- **Deep Learning**: Developing neural networks and models using TensorFlow.
-- **Statistical Analysis**: Conducting statistical analysis and hypothesis testing using R.
-- **Optimization**: Solving optimization problems with CVXPY.
-- **Async Programming**: Efficient asynchronous code execution using AsyncIO in order to gather data from APIs.
+- **Data Analysis**: Experienced in Extracting, cleaning, and transforming data using Pandas and Polars.
+- **Machine Learning**: Proficient Building predictive models with scikit-learn.
+- **Deep Learning**: Familiar with Developing neural networks and models using TensorFlow.
+- **Statistical Analysis**: Familiar with statistical analysis and hypothesis testing using R.
+- **Optimization**: Familiar with Solving optimization problems with CVXPY.
+- **Async Programming**: asynchronous code execution using AsyncIO in order to gather data from APIs.
 - **Web Scraping and API Interaction**: Utilizing Requests for web data retrieval.
 - **Boosting Algorithms**: Implementing high-performance models using XGBoost and LightGBM.
-- **Database Management**: Managing and querying relational databases using MySQL.
-- **Data Visualization**: Creating insightful visualizations using Matplotlib and Plotly.
+- **Database Management**: querying relational databases using MySQL (HackerRank Certificate).
+- **Data Visualization**: Creating visualizations using Matplotlib and Plotly.
 
 ## 🛠️ Technical Skills
 
