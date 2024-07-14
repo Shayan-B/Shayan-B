@@ -6,6 +6,8 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Polars](https://img.shields.io/badge/Polars-3b4465?style=for-the-badge&logo=polars&logoColor=white)](https://pola-rs.github.io/polars-book/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-FF4500?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-017DC3?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
 [![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html)
 [![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python-requests.org/en/master/)
 [![CVXPY](https://img.shields.io/badge/CVXPY-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.cvxpy.org/)
@@ -24,6 +26,7 @@ I have a great interest in data science and machine learning, with some experien
 - **Optimization**: Solving optimization problems with CVXPY.
 - **Async Programming**: Efficient asynchronous code execution using AsyncIO in order to gather data from APIs.
 - **Web Scraping and API Interaction**: Utilizing Requests for web data retrieval.
+- **Boosting Algorithms**: Implementing high-performance models using XGBoost and LightGBM.
 
 ## 🛠️ Technical Skills
 
@@ -37,6 +40,8 @@ I have a great interest in data science and machine learning, with some experien
 - Polars
 - scikit-learn
 - TensorFlow
+- XGBoost
+- LightGBM
 - AsyncIO
 - Requests
 - CVXPY
