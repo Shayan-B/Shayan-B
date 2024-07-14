@@ -24,7 +24,7 @@ I have a great interest in data science and machine learning, with some experien
 
 - **Data Analysis**: Experienced in Extracting, cleaning, and transforming data using Pandas and Polars.
 - **Machine Learning**: Proficient Building predictive models with scikit-learn.
-- **Deep Learning**: Familiar with Developing neural networks and models using TensorFlow.
+- **Deep Learning**: Familiar with Developing neural networks and models using TensorFlow (Mostly Dense and CNN).
 - **Statistical Analysis**: Familiar with statistical analysis and hypothesis testing using R.
 - **Optimization**: Familiar with Solving optimization problems with CVXPY.
 - **Async Programming**: asynchronous code execution using AsyncIO in order to gather data from APIs.
