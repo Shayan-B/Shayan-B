@@ -21,6 +21,7 @@
 Welcome to my GitHub profile! I am a dedicated Data Science enthusiast with a good background in Python, R, and various data analysis and machine learning libraries. My passion lies in turning data into actionable insights and developing robust models that solve real-world problems.
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Shayan-B&show_icons=true&locale=en&theme=tokyonight" alt="Shayan-B" /></p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Shayan-B&show_icons=true&locale=en&layout=compact&theme=chartreuse-white)
 
 ## 👨‍🔬 About Me
 
