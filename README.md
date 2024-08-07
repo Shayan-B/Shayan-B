@@ -39,6 +39,21 @@ I have a great interest in data science and machine learning, with some experien
 - **Database Management**: querying relational databases using MySQL (HackerRank Certificate).
 - **Data Visualization**: Creating visualizations using Matplotlib and Plotly.
 
+## Interests
+- **NLP**
+- **Deep Learning**
+- **Transformers**
+- **Financial Markets prediction**
+
+## Fields that I have worked in my projects:
+- Time series segmentation algorithms (Change point detection analysis)
+- Autoencoders (using CNN neural nets)
+- Fetching live data using async requests from stock website.
+- Learn-To-Rank algortihms (DeepRank, LambdaMart)
+- Bayesian Portfoilio analysis
+- Hidden Markov Models (To detect different states in time series)
+- Detecting Motifs (using `stumpy` package)
+
 ## 🛠️ Technical Skills
 
 ### Languages
